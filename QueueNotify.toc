@@ -1,0 +1,7 @@
+## Interface: 100005
+## Title: QueueNotify
+## Notes: Notifies you when Solo Shuffle pops
+## Author: dev_fatal
+## Version: 0.0.1
+
+QueueNotify.lua
